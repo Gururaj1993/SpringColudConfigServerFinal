@@ -1,0 +1,2 @@
+SpringCloudConfigClientFinal.minimum=1
+SpringCloudConfigClientFinal.maximum=11
