@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sprinfcloudconfig.server.SpringCloudConfigServerFinal.SpringCloudConfigServerFinalApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.224 s - in com.sprinfcloudconfig.server.SpringCloudConfigServerFinal.SpringCloudConfigServerFinalApplicationTests
